@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
   
 
@@ -65,7 +65,7 @@
 
 
 ## Connect with me  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lautaro-tejada-733b47264/" target="_blank">
+<a href="https://www.linkedin.com/in/lautaro-tejada-733b47264/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
